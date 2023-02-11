@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  
+@layer components {
+.header-icons {
+    @apply w-6 h-6 cursor-pointer ;
+}
+.nav-icon {
+    @apply w-6 h-6 ;
+}
+}
